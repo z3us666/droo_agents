@@ -41,7 +41,7 @@ from typing import Any, Dict, List, Tuple
 SKIP_COMPANIES = {"Skatteetaten"}       # lightweight memory (can be fed from chat)
 PRIORITY_COMPANIES: set[str] = set()     # e.g., {"Cognite","Tise"}
 PRIORITY_SIGNALS = {"B2B", "SaaS", "GenAI", "LLM"}
-QUIET_AFTER_HOUR = 11                    # quiet window upper bound (local hour)
+QUIET_AFTER_HOUR = 23                    # quiet window upper bound (local hour)
 
 # Company-site monitors (fill these lists with your targets)
 USE_GREENHOUSE = True
