@@ -1,1 +1,50 @@
 
+# FILE: .github/workflows/jsa_v3.yml
+# Runs job_search_agent v3 daily at 18:00 Europe/Oslo (16:00 UTC)
+name: job_search_agent v3 (daily)
+
+
+on:
+schedule:
+- cron: '0 16 * * *' # 16:00 UTC = 18:00 Europe/Oslo (Sep DST)
+workflow_dispatch:
+
+
+jobs:
+run-v3:
+runs-on: ubuntu-latest
+permissions:
+contents: write
+steps:
+- uses: actions/checkout@v4
+- uses: actions/setup-python@v5
+with:
+python-version: '3.11'
+- name: Install deps
+run: |
+python -m pip install --upgrade pip
+pip install requests beautifulsoup4
+- name: Abort if outside 15-day experiment window
+run: |
+start="2025-09-09"
+today_utc=$(date -u +%F)
+days=$(( ( $(date -ud "$today_utc" +%s) - $(date -ud "$start" +%s) )/86400 ))
+if [ $days -lt 0 ] || [ $days -ge 15 ]; then
+echo "Outside experiment window; skipping."; exit 0; fi
+- name: Patch quiet hour (safety)
+run: |
+sed -i 's/QUIET_AFTER_HOUR = [0-9]*/QUIET_AFTER_HOUR = 23/' job_search_agent_v3.py || true
+- name: Run v3
+run: |
+python job_search_agent_v3.py run --days 7 --top 10
+- name: Stamp filenames with _v3 and commit logs+state
+run: |
+d=$(date -u +%F)
+mkdir -p logs state
+if [ -f logs/${d}.json ]; then cp logs/${d}.json logs/${d}_v3.json; fi
+if [ -f logs/${d}.csv ]; then cp logs/${d}.csv logs/${d}_v3.csv; fi
+git config user.name "jsa-bot"
+git config user.email "jsa-bot@users.noreply.github.com"
+git add logs/ state/
+git commit -m "v3 run $(date -u +%F)" || echo "Nothing to commit"
+git push
