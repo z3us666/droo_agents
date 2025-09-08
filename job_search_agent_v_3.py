@@ -43,7 +43,7 @@ DEFAULT_CITY_WHITELIST = ["Oslo", "Lysaker"]
 DEFAULT_SKIP_COMPANIES = ["Skatteetaten"]
 DEFAULT_PRIORITY_COMPANIES: List[str] = []
 PRIORITY_SIGNALS = {"B2B", "SaaS", "GenAI", "LLM"}
-QUIET_AFTER_HOUR = 11  # safety quiet window upper bound (local hour)
+QUIET_AFTER_HOUR = 23  # safety quiet window upper bound (local hour)
 
 # Company-site monitors (fill these lists with your targets)
 USE_GREENHOUSE = True
