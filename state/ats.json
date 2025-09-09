@@ -139,6 +139,34 @@
           "status": "discovered"
         }
       ]
+    },
+    "edd2713f885300b82437b4e46e436a590ec5f2dc8ea981b2d3d80ea355b2d689": {
+      "company": "",
+      "title": "Fagansvarlig - Fornybart (master of science / sivilingeniør / ingeniør)",
+      "url": "https://www.finn.no/job/ad/424264242",
+      "status": "discovered",
+      "notes": "",
+      "history": [
+        {
+          "date": "2025-09-09T16:31:14+0000",
+          "action": "create",
+          "status": "discovered"
+        }
+      ]
+    },
+    "848cb01e7fc03417dc88409baabe38c21f999ece290dad3a1674c2d11cb6a405": {
+      "company": "",
+      "title": "Lead the digitalization of the customer journey at Wallenius Wilhelmsen",
+      "url": "https://www.finn.no/job/ad/426286273",
+      "status": "discovered",
+      "notes": "",
+      "history": [
+        {
+          "date": "2025-09-09T16:31:14+0000",
+          "action": "create",
+          "status": "discovered"
+        }
+      ]
     }
   }
 }
