@@ -167,6 +167,34 @@
           "status": "discovered"
         }
       ]
+    },
+    "92d22bf1f392612fae54601d17dc7ce8322aa8e8f5d265b71cf3025bf4b4ebc2": {
+      "company": "",
+      "title": "Hydro Summer Internship 2026",
+      "url": "https://www.finn.no/job/ad/424397143",
+      "status": "discovered",
+      "notes": "",
+      "history": [
+        {
+          "date": "2025-09-10T16:31:04+0000",
+          "action": "create",
+          "status": "discovered"
+        }
+      ]
+    },
+    "fb95c8bec21543bad71de5b37e76bc4a86630fddef6ca835e87798710d4dad3c": {
+      "company": "",
+      "title": "Drive commercial growth for Wallenius Wilhelmsen",
+      "url": "https://www.finn.no/job/ad/426290992",
+      "status": "discovered",
+      "notes": "",
+      "history": [
+        {
+          "date": "2025-09-10T16:31:04+0000",
+          "action": "create",
+          "status": "discovered"
+        }
+      ]
     }
   }
 }
