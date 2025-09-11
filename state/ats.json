@@ -195,6 +195,20 @@
           "status": "discovered"
         }
       ]
+    },
+    "1e95950568c8b9069c08fb522e29e9cfff1a97ee8fe176472a1ffe6d54d5e665": {
+      "company": "",
+      "title": "Engineering Manager",
+      "url": "https://www.finn.no/job/ad/423771277",
+      "status": "discovered",
+      "notes": "",
+      "history": [
+        {
+          "date": "2025-09-11T16:30:04+0000",
+          "action": "create",
+          "status": "discovered"
+        }
+      ]
     }
   }
 }
