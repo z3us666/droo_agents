@@ -209,6 +209,20 @@
           "status": "discovered"
         }
       ]
+    },
+    "a83cfa5bee3bf97bd8ecbcd14da68ae3e0a6ce1cc54a62fe07ab9b4c2aa805f5": {
+      "company": "",
+      "title": "System Operations Engineer",
+      "url": "https://www.finn.no/job/ad/424387115",
+      "status": "discovered",
+      "notes": "",
+      "history": [
+        {
+          "date": "2025-09-13T16:25:26+0000",
+          "action": "create",
+          "status": "discovered"
+        }
+      ]
     }
   }
 }
