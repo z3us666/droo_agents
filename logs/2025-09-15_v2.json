@@ -1,0 +1,172 @@
+{
+  "run_id": "2025-09-15",
+  "generated_at": "2025-09-15T10:14:46+0000",
+  "stats": {
+    "fetched": 56,
+    "unique": 56,
+    "final": 10,
+    "median_age": 0,
+    "english_ok": 1,
+    "genai_hits": 1,
+    "errors": 0
+  },
+  "jobs": [
+    {
+      "company": "Cognite",
+      "title": "Senior Product Manager",
+      "location": "Oslo, NO",
+      "post_date": "2025-09-14",
+      "url": "https://example.com/cognite-spm",
+      "score": 10.5,
+      "reasons": [
+        "Title match",
+        "B2B/SaaS",
+        "English OK"
+      ],
+      "english_ok": true,
+      "keywords": [
+        "GenAI",
+        "SaaS",
+        "B2B",
+        "English"
+      ],
+      "age_days": 1
+    },
+    {
+      "company": "",
+      "title": "Jobb",
+      "location": "Oslo, NO",
+      "post_date": "2025-09-15",
+      "url": "https://www.finn.no/job/browse.html",
+      "score": 1.5,
+      "reasons": [
+        "Fresh"
+      ],
+      "english_ok": null,
+      "keywords": [],
+      "age_days": 0
+    },
+    {
+      "company": "",
+      "title": "Ledige stillinger",
+      "location": "Oslo, NO",
+      "post_date": "2025-09-15",
+      "url": "https://www.finn.no/job/search",
+      "score": 1.5,
+      "reasons": [
+        "Fresh"
+      ],
+      "english_ok": null,
+      "keywords": [],
+      "age_days": 0
+    },
+    {
+      "company": "",
+      "title": "Er du Oslo Taxis nye lønnsansvarlig?",
+      "location": "Oslo, NO",
+      "post_date": "2025-09-15",
+      "url": "https://www.finn.no/job/ad/426650276",
+      "score": 1.5,
+      "reasons": [
+        "Fresh"
+      ],
+      "english_ok": null,
+      "keywords": [],
+      "age_days": 0
+    },
+    {
+      "company": "",
+      "title": "Lead People, Operations, and Growth in a hot and expanding sauna company!",
+      "location": "Oslo, NO",
+      "post_date": "2025-09-15",
+      "url": "https://www.finn.no/job/ad/424380752",
+      "score": 1.5,
+      "reasons": [
+        "Fresh"
+      ],
+      "english_ok": null,
+      "keywords": [],
+      "age_days": 0
+    },
+    {
+      "company": "",
+      "title": "Staff for Mulberry Oslo",
+      "location": "Oslo, NO",
+      "post_date": "2025-09-15",
+      "url": "https://www.finn.no/job/ad/423919651",
+      "score": 1.5,
+      "reasons": [
+        "Fresh"
+      ],
+      "english_ok": null,
+      "keywords": [],
+      "age_days": 0
+    },
+    {
+      "company": "",
+      "title": "Butikkmedarbeider Jaktia Oslo.",
+      "location": "Oslo, NO",
+      "post_date": "2025-09-15",
+      "url": "https://www.finn.no/job/ad/422443533",
+      "score": 1.5,
+      "reasons": [
+        "Fresh"
+      ],
+      "english_ok": null,
+      "keywords": [],
+      "age_days": 0
+    },
+    {
+      "company": "",
+      "title": "Vil du bidra til god økonomistyring i Oslo Kommune? Vi søker controller til vikariat",
+      "location": "Oslo, NO",
+      "post_date": "2025-09-15",
+      "url": "https://www.finn.no/job/ad/425306304",
+      "score": 1.5,
+      "reasons": [
+        "Fresh"
+      ],
+      "english_ok": null,
+      "keywords": [],
+      "age_days": 0
+    },
+    {
+      "company": "",
+      "title": "Vil du utgjøre en forskjell for barn i Oslo?",
+      "location": "Oslo, NO",
+      "post_date": "2025-09-15",
+      "url": "https://www.finn.no/job/ad/426226789",
+      "score": 1.5,
+      "reasons": [
+        "Fresh"
+      ],
+      "english_ok": null,
+      "keywords": [],
+      "age_days": 0
+    },
+    {
+      "company": "",
+      "title": "Prosjektleder, Fact Ung Oslo Vest",
+      "location": "Oslo, NO",
+      "post_date": "2025-09-15",
+      "url": "https://www.finn.no/job/ad/425603160",
+      "score": 1.5,
+      "reasons": [
+        "Fresh"
+      ],
+      "english_ok": null,
+      "keywords": [],
+      "age_days": 0
+    }
+  ],
+  "logs": [
+    "[LOG][Dhruva][Fetch] count=56 sources_ok=2/2",
+    "[LOG][Dhruva][Normalize] in=56 out=56 dedup_keys_ready=true",
+    "[LOG][Dhruva][Dedup] before=56 after=56 merged_pairs=0",
+    "[LOG][Dhruva][Translate] translated=1 avg_chars=1",
+    "[LOG][Dhruva][Enrich] enriched=56 flags={english_ok:1, norwegian_required:0}",
+    "[LOG][Dhruva][Rank] ranked=56 top1=\"Cognite – Senior Product Manager\"",
+    "[LOG][Dhruva][Select] final_count=10 new_today=9 existing=1",
+    "[LOG][Dhruva][Rollup] fetched=56 unique=56 final=10 median_age=0 english_ok=1 genai_hits=1 errors=0"
+  ]
+}
