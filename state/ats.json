@@ -223,6 +223,34 @@
           "status": "discovered"
         }
       ]
+    },
+    "8604173b4b4417e12415fe22e3bee6d79e8dde5d2121ccf93e2518acf7139b23": {
+      "company": "",
+      "title": "HR Business Partner",
+      "url": "https://www.finn.no/job/ad/426654665",
+      "status": "discovered",
+      "notes": "",
+      "history": [
+        {
+          "date": "2025-09-15T16:31:25+0000",
+          "action": "create",
+          "status": "discovered"
+        }
+      ]
+    },
+    "eda43b33ff33c3cd30b07166a8b03f7bf8242631ee9b6c5a8ce8cc7628a3fee5": {
+      "company": "",
+      "title": "Senior Clinical Supply Manager",
+      "url": "https://www.finn.no/job/ad/426707224",
+      "status": "discovered",
+      "notes": "",
+      "history": [
+        {
+          "date": "2025-09-15T16:31:25+0000",
+          "action": "create",
+          "status": "discovered"
+        }
+      ]
     }
   }
 }
