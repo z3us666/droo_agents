@@ -251,6 +251,34 @@
           "status": "discovered"
         }
       ]
+    },
+    "82ca9c8ce666386d6ebe7aab0e34640855f054fe0505fa1138c427237bfd87be": {
+      "company": "",
+      "title": "Vi søkjer ein dyktig og engasjert prosjektleiar for IT og digitaliseringsløysingar hos oss i NOKUT",
+      "url": "https://www.finn.no/job/ad/426674363",
+      "status": "discovered",
+      "notes": "",
+      "history": [
+        {
+          "date": "2025-09-16T16:30:57+0000",
+          "action": "create",
+          "status": "discovered"
+        }
+      ]
+    },
+    "5513f3ed8feceb40b5bf0e10204d7a8c53f1ffe385520bf3d178b9da25dfd68a": {
+      "company": "",
+      "title": "Bli en nøkkelressurs innen produktanalyse og produktvisjon",
+      "url": "https://www.finn.no/job/ad/427330202",
+      "status": "discovered",
+      "notes": "",
+      "history": [
+        {
+          "date": "2025-09-16T16:30:57+0000",
+          "action": "create",
+          "status": "discovered"
+        }
+      ]
     }
   }
 }
