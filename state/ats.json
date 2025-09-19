@@ -279,6 +279,20 @@
           "status": "discovered"
         }
       ]
+    },
+    "76f98969146e8fb668b52fec3bae7b25f969349fa56265a412d6ac0d561ecea5": {
+      "company": "",
+      "title": "Are you a strategic thinker with the ability to translate business goals into talent acquisition strategies?",
+      "url": "https://www.finn.no/job/ad/426361454",
+      "status": "discovered",
+      "notes": "",
+      "history": [
+        {
+          "date": "2025-09-19T16:29:43+0000",
+          "action": "create",
+          "status": "discovered"
+        }
+      ]
     }
   }
 }
