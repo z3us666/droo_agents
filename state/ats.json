@@ -293,6 +293,34 @@
           "status": "discovered"
         }
       ]
+    },
+    "a7c8a03a48ba6f8a1d547dd096039e7883c72ae10b187b7947dd87323db3365f": {
+      "company": "",
+      "title": "Vis på kart Kartnål",
+      "url": "https://www.finn.no/map/job/fulltime?q=%28Product+Manager%29+OR+%28Senior+Product+Manager%29+OR+%28Product+Owner%29+Oslo%2C+Lysaker",
+      "status": "discovered",
+      "notes": "",
+      "history": [
+        {
+          "date": "2025-09-23T16:31:31+0000",
+          "action": "create",
+          "status": "discovered"
+        }
+      ]
+    },
+    "46fe707efb8fe1c41257484756c05a72c27d37a42a58fe3ff6df76622f460f3c": {
+      "company": "",
+      "title": "Ready to shape the future of supply chains? Join us as Manager Product Strategy & Governance.",
+      "url": "https://www.finn.no/job/ad/428473342",
+      "status": "discovered",
+      "notes": "",
+      "history": [
+        {
+          "date": "2025-09-23T16:31:31+0000",
+          "action": "create",
+          "status": "discovered"
+        }
+      ]
     }
   }
 }
