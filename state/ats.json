@@ -321,6 +321,20 @@
           "status": "discovered"
         }
       ]
+    },
+    "a2b68db2c282b260abe0c91ea8bc689d54706214e0e9a79511d0c5a79ce642c8": {
+      "company": "",
+      "title": "Er du økonom med interesse for økonomisk tilsyn og kontroll av private aktørar?",
+      "url": "https://www.finn.no/job/ad/427542346",
+      "status": "discovered",
+      "notes": "",
+      "history": [
+        {
+          "date": "2025-09-25T16:31:04+0000",
+          "action": "create",
+          "status": "discovered"
+        }
+      ]
     }
   }
 }
