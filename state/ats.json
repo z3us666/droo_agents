@@ -335,6 +335,20 @@
           "status": "discovered"
         }
       ]
+    },
+    "a3789ac32a83e3455f3064af7a2a4abda80453311ce908e82116e6feb03951a1": {
+      "company": "Skatteetaten",
+      "title": "Produktleder for adresse- og bostedsopplysninger",
+      "url": "https://example.com/skatteetaten-pl",
+      "status": "discovered",
+      "notes": "",
+      "history": [
+        {
+          "date": "2025-09-26T16:31:17+0000",
+          "action": "create",
+          "status": "discovered"
+        }
+      ]
     }
   }
 }
