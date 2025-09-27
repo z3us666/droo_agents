@@ -349,6 +349,20 @@
           "status": "discovered"
         }
       ]
+    },
+    "5f5dc8e79a831f81d7ff3d9ff9cdf57bf2ed9f9ea29ea5168943a6878002c9e6": {
+      "company": "",
+      "title": "Jurist personvern og foretaksjus",
+      "url": "https://www.finn.no/job/ad/425402616",
+      "status": "discovered",
+      "notes": "",
+      "history": [
+        {
+          "date": "2025-09-27T16:27:02+0000",
+          "action": "create",
+          "status": "discovered"
+        }
+      ]
     }
   }
 }
