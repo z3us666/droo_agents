@@ -363,6 +363,20 @@
           "status": "discovered"
         }
       ]
+    },
+    "b296c9a0564b4001476fab044529e982a832361d567a320c5448a05ef70c63db": {
+      "company": "",
+      "title": "Produktsjef Landbruk søkes– bidra til trygghet for norske bønder!",
+      "url": "https://www.finn.no/job/ad/429389955",
+      "status": "discovered",
+      "notes": "",
+      "history": [
+        {
+          "date": "2025-09-29T16:25:26+0000",
+          "action": "create",
+          "status": "discovered"
+        }
+      ]
     }
   }
 }
