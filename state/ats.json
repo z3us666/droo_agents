@@ -377,6 +377,20 @@
           "status": "discovered"
         }
       ]
+    },
+    "b7131fbf815b446c54ff829c10e8566030d55891433dab09625c83a2643c9f42": {
+      "company": "",
+      "title": "Vil du bidra til trygg og effektiv skadebehandling for våre motorkunder?",
+      "url": "https://www.finn.no/job/ad/428512500",
+      "status": "discovered",
+      "notes": "",
+      "history": [
+        {
+          "date": "2025-09-30T16:31:22+0000",
+          "action": "create",
+          "status": "discovered"
+        }
+      ]
     }
   }
 }
