@@ -391,6 +391,20 @@
           "status": "discovered"
         }
       ]
+    },
+    "bd8fb4ef9c79683db274bd80160900e3927504cf4ab61a24a7a2c7a8e8ade5ae": {
+      "company": "",
+      "title": "Are you passionate about ensuring innovative products meet the highest international safety and compliance standards?",
+      "url": "https://www.finn.no/job/ad/429733756",
+      "status": "discovered",
+      "notes": "",
+      "history": [
+        {
+          "date": "2025-10-01T16:31:23+0000",
+          "action": "create",
+          "status": "discovered"
+        }
+      ]
     }
   }
 }
