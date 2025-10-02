@@ -1,0 +1,79 @@
+{
+  "run_id": "2025-10-02",
+  "generated_at": "2025-10-02T10:13:34+0000",
+  "stats": {
+    "fetched": 3,
+    "unique": 3,
+    "final": 3,
+    "median_age": 2,
+    "english_ok": 2,
+    "genai_hits": 1,
+    "errors": 0
+  },
+  "jobs": [
+    {
+      "company": "Cognite",
+      "title": "Senior Product Manager",
+      "location": "Oslo, NO",
+      "post_date": "2025-10-01",
+      "url": "https://example.com/cognite-spm",
+      "score": 10.5,
+      "reasons": [
+        "Title match",
+        "B2B/SaaS",
+        "English OK"
+      ],
+      "english_ok": true,
+      "keywords": [
+        "GenAI",
+        "SaaS",
+        "B2B",
+        "English"
+      ],
+      "age_days": 1
+    },
+    {
+      "company": "Marlink",
+      "title": "Product Manager – Maritime (Crew Welfare)",
+      "location": "Lysaker, NO",
+      "post_date": "2025-09-30",
+      "url": "https://example.com/marlink-pm",
+      "score": 8.5,
+      "reasons": [
+        "Title match",
+        "B2B/SaaS",
+        "English OK"
+      ],
+      "english_ok": true,
+      "keywords": [
+        "B2B",
+        "English"
+      ],
+      "age_days": 2
+    },
+    {
+      "company": "Skatteetaten",
+      "title": "Produktleder for adresse- og bostedsopplysninger",
+      "location": "Oslo, NO",
+      "post_date": "2025-09-20",
+      "url": "https://example.com/skatteetaten-pl",
+      "score": 0.0,
+      "reasons": [
+        "SKIP company"
+      ],
+      "english_ok": null,
+      "keywords": [],
+      "age_days": 12
+    }
+  ],
+  "logs": [
+    "[LOG][Dhruva][Fetch] count=3 sources_ok=2/2",
+    "[LOG][Dhruva][Normalize] in=3 out=3 dedup_keys_ready=true",
+    "[LOG][Dhruva][Dedup] before=3 after=3 merged_pairs=0",
+    "[LOG][Dhruva][Translate] translated=1 avg_chars=52",
+    "[LOG][Dhruva][Enrich] enriched=3 flags={english_ok:2, norwegian_required:0}",
+    "[LOG][Dhruva][Rank] ranked=3 top1=\"Cognite – Senior Product Manager\"",
+    "[LOG][Dhruva][Select] final_count=3 new_today=0 existing=3",
+    "[LOG][Dhruva][Rollup] fetched=3 unique=3 final=3 median_age=2 english_ok=2 genai_hits=1 errors=0"
+  ]
+}
