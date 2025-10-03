@@ -1,3 +1,0 @@
-job_id,company,title,location,post_date,score,reasons,url,source
-f93817913f28fc7d1210814598176d47d13b8b3b2877236d880957b66a8ae73e,Cognite,Senior Product Manager,"Oslo, NO",2025-09-25,10.5,Title match; B2B/SaaS; English OK,https://example.com/cognite-spm,linkedin
-a3789ac32a83e3455f3064af7a2a4abda80453311ce908e82116e6feb03951a1,Skatteetaten,Produktleder for adresse- og bostedsopplysninger,"Oslo, NO",2025-09-14,0.0,SKIP company,https://example.com/skatteetaten-pl,linkedin

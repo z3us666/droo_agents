@@ -405,6 +405,20 @@
           "status": "discovered"
         }
       ]
+    },
+    "aeeff94ca51c21f9fa8e29de30038c5068a1ae168a145fea7f8b39206222ad75": {
+      "company": "",
+      "title": "Vil du bli vår nye driftsleder i Oslo å bygge fremtidens bygg med oss",
+      "url": "https://www.finn.no/job/ad/429427767",
+      "status": "discovered",
+      "notes": "",
+      "history": [
+        {
+          "date": "2025-10-03T16:29:35+0000",
+          "action": "create",
+          "status": "discovered"
+        }
+      ]
     }
   }
 }
