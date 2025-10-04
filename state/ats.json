@@ -419,6 +419,20 @@
           "status": "discovered"
         }
       ]
+    },
+    "63d7e79eed2e9fdae9d105d5b1b1b65dc2cffe5d6f3aaa568705fcd49a188d67": {
+      "company": "",
+      "title": "We are seeking a strategic Marketing Lead for Global Campaigns in DNV Digital Solutions!",
+      "url": "https://www.finn.no/job/ad/428590273",
+      "status": "discovered",
+      "notes": "",
+      "history": [
+        {
+          "date": "2025-10-04T16:27:28+0000",
+          "action": "create",
+          "status": "discovered"
+        }
+      ]
     }
   }
 }
