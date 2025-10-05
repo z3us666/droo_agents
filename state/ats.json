@@ -433,6 +433,20 @@
           "status": "discovered"
         }
       ]
+    },
+    "8c20a6f3f39843800ba54cda6b170d29d376f887cdae882e03960d4ff110c302": {
+      "company": "",
+      "title": "Bli vår nye prosjektleder i Oslo – bygg fremtidens bygg med oss!",
+      "url": "https://www.finn.no/job/ad/429451806",
+      "status": "discovered",
+      "notes": "",
+      "history": [
+        {
+          "date": "2025-10-05T16:26:51+0000",
+          "action": "create",
+          "status": "discovered"
+        }
+      ]
     }
   }
 }
