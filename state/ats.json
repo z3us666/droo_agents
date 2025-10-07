@@ -461,6 +461,20 @@
           "status": "discovered"
         }
       ]
+    },
+    "f9dca864206b77f1d4d38523a291ec1cad32e88352b8904c471d4838758d178e": {
+      "company": "",
+      "title": "Bygg din egen bedrift i samarbeid med WaterCircles Forsikring",
+      "url": "https://www.finn.no/job/ad/429412785",
+      "status": "discovered",
+      "notes": "",
+      "history": [
+        {
+          "date": "2025-10-07T16:30:58+0000",
+          "action": "create",
+          "status": "discovered"
+        }
+      ]
     }
   }
 }
