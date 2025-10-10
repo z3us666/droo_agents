@@ -489,6 +489,20 @@
           "status": "discovered"
         }
       ]
+    },
+    "6e735e24bb9c9e885edcc1f6421304baeca76b40b486322700b29952115df2a6": {
+      "company": "",
+      "title": "Are you Norrøna's next Product Developer?",
+      "url": "https://www.finn.no/job/ad/431360892",
+      "status": "discovered",
+      "notes": "",
+      "history": [
+        {
+          "date": "2025-10-10T16:30:49+0000",
+          "action": "create",
+          "status": "discovered"
+        }
+      ]
     }
   }
 }
