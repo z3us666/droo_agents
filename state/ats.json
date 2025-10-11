@@ -503,6 +503,34 @@
           "status": "discovered"
         }
       ]
+    },
+    "73a4e3e87f8406b8f3288eba8e77f6143b4e2e3ecb578a8681b14e76f6b39a94": {
+      "company": "",
+      "title": "2026 OneSubsea Graduates–Oslo",
+      "url": "https://www.finn.no/job/ad/430641070",
+      "status": "discovered",
+      "notes": "",
+      "history": [
+        {
+          "date": "2025-10-11T16:26:45+0000",
+          "action": "create",
+          "status": "discovered"
+        }
+      ]
+    },
+    "959438cf090e6826e81632d3d9cfff22bfa8ab6b27249e5ce21f668759fef01f": {
+      "company": "",
+      "title": "Are you an experienced Program Manager ready to lead complex hardware projects from concept to market?",
+      "url": "https://www.finn.no/job/ad/429956309",
+      "status": "discovered",
+      "notes": "",
+      "history": [
+        {
+          "date": "2025-10-11T16:26:45+0000",
+          "action": "create",
+          "status": "discovered"
+        }
+      ]
     }
   }
 }
