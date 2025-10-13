@@ -531,6 +531,34 @@
           "status": "discovered"
         }
       ]
+    },
+    "f978de35efc84beedae9f00723e2060902c841402c36706c4135d3796b544440": {
+      "company": "",
+      "title": "Lead quality in railway safety innovation",
+      "url": "https://www.finn.no/job/ad/429428133",
+      "status": "discovered",
+      "notes": "",
+      "history": [
+        {
+          "date": "2025-10-13T16:31:42+0000",
+          "action": "create",
+          "status": "discovered"
+        }
+      ]
+    },
+    "58710dffd373587460e6c8d09d3e2a03f4db8dcc788577e9edafaae1fdedd9e3": {
+      "company": "",
+      "title": "Do you want to own performance marketing in a truly global Norwegian tech company?",
+      "url": "https://www.finn.no/job/ad/431858501",
+      "status": "discovered",
+      "notes": "",
+      "history": [
+        {
+          "date": "2025-10-13T16:31:42+0000",
+          "action": "create",
+          "status": "discovered"
+        }
+      ]
     }
   }
 }
