@@ -1,0 +1,178 @@
+{
+  "run_id": "2025-10-14",
+  "generated_at": "2025-10-14T10:14:38+0000",
+  "stats": {
+    "fetched": 57,
+    "unique": 57,
+    "final": 10,
+    "median_age": 0,
+    "english_ok": 1,
+    "genai_hits": 1,
+    "errors": 0
+  },
+  "jobs": [
+    {
+      "company": "Cognite",
+      "title": "Senior Product Manager",
+      "location": "Oslo, NO",
+      "post_date": "2025-10-13",
+      "url": "https://example.com/cognite-spm",
+      "score": 10.5,
+      "reasons": [
+        "Title match",
+        "B2B/SaaS",
+        "English OK"
+      ],
+      "english_ok": true,
+      "keywords": [
+        "GenAI",
+        "SaaS",
+        "B2B",
+        "English"
+      ],
+      "age_days": 1
+    },
+    {
+      "company": "",
+      "title": "Join Sector Alarm as a Hardware Product Manager!",
+      "location": "Oslo, NO",
+      "post_date": "2025-10-14",
+      "url": "https://www.finn.no/job/ad/427779158",
+      "score": 4.5,
+      "reasons": [
+        "Title match",
+        "Fresh"
+      ],
+      "english_ok": null,
+      "keywords": [],
+      "age_days": 0
+    },
+    {
+      "company": "",
+      "title": "Are you our new Senior Product Manager?",
+      "location": "Oslo, NO",
+      "post_date": "2025-10-14",
+      "url": "https://www.finn.no/job/ad/427205486",
+      "score": 4.5,
+      "reasons": [
+        "Title match",
+        "Fresh"
+      ],
+      "english_ok": null,
+      "keywords": [],
+      "age_days": 0
+    },
+    {
+      "company": "",
+      "title": "Digital Product Manager",
+      "location": "Oslo, NO",
+      "post_date": "2025-10-14",
+      "url": "https://www.finn.no/job/ad/430100624",
+      "score": 4.5,
+      "reasons": [
+        "Title match",
+        "Fresh"
+      ],
+      "english_ok": null,
+      "keywords": [],
+      "age_days": 0
+    },
+    {
+      "company": "",
+      "title": "Product Manager - Jobs User Matching (Interim)",
+      "location": "Oslo, NO",
+      "post_date": "2025-10-14",
+      "url": "https://www.finn.no/job/ad/430110339",
+      "score": 4.5,
+      "reasons": [
+        "Title match",
+        "Fresh"
+      ],
+      "english_ok": null,
+      "keywords": [],
+      "age_days": 0
+    },
+    {
+      "company": "",
+      "title": "Er du vår nye Product Owner?",
+      "location": "Oslo, NO",
+      "post_date": "2025-10-14",
+      "url": "https://www.finn.no/job/ad/430843517",
+      "score": 4.5,
+      "reasons": [
+        "Title match",
+        "Fresh"
+      ],
+      "english_ok": null,
+      "keywords": [],
+      "age_days": 0
+    },
+    {
+      "company": "",
+      "title": "VIKING seeks a Product Manager Lifeboats & Davits - Arendal",
+      "location": "Oslo, NO",
+      "post_date": "2025-10-14",
+      "url": "https://www.finn.no/job/ad/427765923",
+      "score": 4.5,
+      "reasons": [
+        "Title match",
+        "Fresh"
+      ],
+      "english_ok": null,
+      "keywords": [],
+      "age_days": 0
+    },
+    {
+      "company": "",
+      "title": "Jobb",
+      "location": "Oslo, NO",
+      "post_date": "2025-10-14",
+      "url": "https://www.finn.no/job/browse.html",
+      "score": 1.5,
+      "reasons": [
+        "Fresh"
+      ],
+      "english_ok": null,
+      "keywords": [],
+      "age_days": 0
+    },
+    {
+      "company": "",
+      "title": "Ledige stillinger",
+      "location": "Oslo, NO",
+      "post_date": "2025-10-14",
+      "url": "https://www.finn.no/job/search",
+      "score": 1.5,
+      "reasons": [
+        "Fresh"
+      ],
+      "english_ok": null,
+      "keywords": [],
+      "age_days": 0
+    },
+    {
+      "company": "",
+      "title": "Vis på kart Kartnål",
+      "location": "Oslo, NO",
+      "post_date": "2025-10-14",
+      "url": "https://www.finn.no/map/job/fulltime?q=%28Product+Manager%29+OR+%28Senior+Product+Manager%29+OR+%28Product+Owner%29+Oslo",
+      "score": 1.5,
+      "reasons": [
+        "Fresh"
+      ],
+      "english_ok": null,
+      "keywords": [],
+      "age_days": 0
+    }
+  ],
+  "logs": [
+    "[LOG][Dhruva][Fetch] count=57 sources_ok=2/2",
+    "[LOG][Dhruva][Normalize] in=57 out=57 dedup_keys_ready=true",
+    "[LOG][Dhruva][Dedup] before=57 after=57 merged_pairs=0",
+    "[LOG][Dhruva][Translate] translated=1 avg_chars=1",
+    "[LOG][Dhruva][Enrich] enriched=57 flags={english_ok:1, norwegian_required:0}",
+    "[LOG][Dhruva][Rank] ranked=57 top1=\"Cognite – Senior Product Manager\"",
+    "[LOG][Dhruva][Select] final_count=10 new_today=9 existing=1",
+    "[LOG][Dhruva][Rollup] fetched=57 unique=57 final=10 median_age=0 english_ok=1 genai_hits=1 errors=0"
+  ]
+}
