@@ -587,6 +587,48 @@
           "status": "discovered"
         }
       ]
+    },
+    "53b1a67dffee6a7f34a6bf340308ec27cc5c662cca748616a4b5e7ec542a1e39": {
+      "company": "",
+      "title": "Vi ser etter avdelingsdirektør til vår avdeling for høyere yrkesfaglig utdanning",
+      "url": "https://www.finn.no/job/ad/431039977",
+      "status": "discovered",
+      "notes": "",
+      "history": [
+        {
+          "date": "2025-10-15T16:28:38+0000",
+          "action": "create",
+          "status": "discovered"
+        }
+      ]
+    },
+    "505bafff73582b68264724a21995c57d6e4a17155e5413f0ae2468db1a64c87a": {
+      "company": "",
+      "title": "Are you a Mechanical Engineer ready to grow your skills while designing solutions for a rapidly growing company?",
+      "url": "https://www.finn.no/job/ad/432203323",
+      "status": "discovered",
+      "notes": "",
+      "history": [
+        {
+          "date": "2025-10-15T16:28:38+0000",
+          "action": "create",
+          "status": "discovered"
+        }
+      ]
+    },
+    "504f03f9e66c9ba3bfaa1cb7f531cf3d9bfe289aa244afce6e6afd86cb4b8fb4": {
+      "company": "",
+      "title": "Are you an experienced Mechanical Engineer looking to design cutting-edge solutions for a rapidly growing company?",
+      "url": "https://www.finn.no/job/ad/432196297",
+      "status": "discovered",
+      "notes": "",
+      "history": [
+        {
+          "date": "2025-10-15T16:28:38+0000",
+          "action": "create",
+          "status": "discovered"
+        }
+      ]
     }
   }
 }
