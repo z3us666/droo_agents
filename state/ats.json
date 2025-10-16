@@ -629,6 +629,20 @@
           "status": "discovered"
         }
       ]
+    },
+    "caad7828c8614018583e6b738bf8b6fbaae45642a2f0f52463d1301625b5abf0": {
+      "company": "",
+      "title": "DNV is looking for Research scientist",
+      "url": "https://www.finn.no/job/ad/431832495",
+      "status": "discovered",
+      "notes": "",
+      "history": [
+        {
+          "date": "2025-10-16T16:32:38+0000",
+          "action": "create",
+          "status": "discovered"
+        }
+      ]
     }
   }
 }
