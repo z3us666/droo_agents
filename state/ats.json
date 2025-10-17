@@ -643,6 +643,20 @@
           "status": "discovered"
         }
       ]
+    },
+    "78f590a5d5235a08774cc949cf40848e0813cb993e864051f6017874685a6e96": {
+      "company": "",
+      "title": "Bli vår nye anleggsleder i Oslo – bygg fremtidens bygg med oss",
+      "url": "https://www.finn.no/job/ad/429437718",
+      "status": "discovered",
+      "notes": "",
+      "history": [
+        {
+          "date": "2025-10-17T16:31:06+0000",
+          "action": "create",
+          "status": "discovered"
+        }
+      ]
     }
   }
 }
