@@ -657,6 +657,20 @@
           "status": "discovered"
         }
       ]
+    },
+    "9180fbf950a3402842f2a7ad6b560bdd38b1d50ed02d5f615ca7834f0ecea7d7": {
+      "company": "",
+      "title": "Do you want to join us at Høvik as a Ship Machinery generalist?",
+      "url": "https://www.finn.no/job/ad/432138390",
+      "status": "discovered",
+      "notes": "",
+      "history": [
+        {
+          "date": "2025-10-18T16:27:52+0000",
+          "action": "create",
+          "status": "discovered"
+        }
+      ]
     }
   }
 }
